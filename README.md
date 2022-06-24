@@ -3,6 +3,8 @@
 ## EN
 
 ### Project being developed through the knowledge acquired in the IOS Swift course - The Complete IOS App Development Bootcamp - Udemy (Dr. Angela Yu)
+
+### Application being developed using the model-view-controller (MVC) design pattern
  
  ### Features applied in this app:
   
@@ -23,6 +25,8 @@
  ## BR
  
  ### Projeto sendo desenvolvido através dos conhecimentos adquiridos no curso IOS&Swift - The Complete IOS App Development Bootcamp - Udemy (Dr. Angela Yu)
+ 
+ ### O aplicativo está sendo desenvolvido utilizando model-view-controller (MVC) design pattern
  
  ## Recursos aplicados para o desenvovimento deste aplicativo:
  
