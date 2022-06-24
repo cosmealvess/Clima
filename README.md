@@ -12,7 +12,7 @@
  * UITextField
  * Protocols
  * Delegate Design Pattern
- * Application Programming Interface (API)
+ * Application Programming Interface - API
  * HTTP requests with URLSession
  * Parse JSON with native JSONDecoder
  * Computed properties, closure and extensions
@@ -32,7 +32,7 @@
  * UITextField
  * Protocols
  * Delegate Design Pattern
- * Application Programming Interface (API)
+ * Application Programming Interface - API
  * HTTP requests with URLSession
  * Parse JSON with native JSONDecoder
  * Computed properties, closure and extensions
