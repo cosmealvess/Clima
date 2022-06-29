@@ -19,7 +19,7 @@
  * Parse JSON with native JSONDecoder
  * Computed properties, closure and extensions
  * Core Location to get the GPS data
- 
+ * URLSession for Networking
  
  
  ## BR
@@ -41,6 +41,7 @@
  * Parse JSON with native JSONDecoder
  * Computed properties, closure and extensions
  * Core Location to get the GPS data
+ * URLSession for Networking
  
  
  
