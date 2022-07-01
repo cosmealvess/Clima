@@ -20,6 +20,7 @@
  * Computed properties, closure and extensions
  * Core Location to get the GPS data
  * URLSession for Networking
+ * CoreLocation
  
  
  ## BR
@@ -42,6 +43,7 @@
  * Computed properties, closure and extensions
  * Core Location to get the GPS data
  * URLSession for Networking
+ * CoreLocation
  
  
  
